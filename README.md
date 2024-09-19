@@ -1,4 +1,4 @@
-### Hi there 👋
+### Practice more learn more👋
 
 <!--
 **supatramajumder/supatramajumder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
